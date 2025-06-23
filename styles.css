@@ -12,9 +12,10 @@ body {
 header {
   background: rgba(10, 30, 20, 0.95);
   color: #fff;
-  padding: 28px 0 12px 0;
-  box-shadow: 0 4px 32px #00ffb0a0;
-  border-bottom: 2px solid #00ffb0;
+  padding: 40px 20px;
+  box-shadow: 0 80px 350px #00ffb0a0;
+  border-bottom: px solid #00ffb0;
+  
 }
 
 header h1 {
